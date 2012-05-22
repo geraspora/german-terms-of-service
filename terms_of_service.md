@@ -79,7 +79,7 @@ darüber informieren.
 Hinweise
 --------
 
-Diese Nutzungsbedingungen basieren auf der Vorlage des "Pod Name" Teams, welche
+Diese Nutzungsbedingungen basieren auf der Vorlage des Geraspora Teams, welche
 unter der CC-BY veröffentlicht wurde:
 https://github.com/geraspora/german-terms-of-service
 
