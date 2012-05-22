@@ -8,7 +8,7 @@ Dein Name
 Deine Adresse  
 PLZ, Ort  
 
-E-Mail: ich@ich.de
+E-Mail: example@example.com
 
 1. Vorwort
 ----------
