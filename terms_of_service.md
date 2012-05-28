@@ -60,7 +60,7 @@ beim Anbieter erfragt werden.
 
 Dem Betreiber ist es wichtig, die Daten der Nutzer zu schützen. Es werden
 keinerlei Daten durch den Anbieter ausgewertet oder an dritte Personen weiter
-gegeben, außer die Weitergabe wird rechtlich erzweungen. In einem solchen Fall
+gegeben, außer die Weitergabe wird rechtlich erzwungen. In einem solchen Fall
 können folgende Daten weitergegeben werden:
 
   * Benutzername
