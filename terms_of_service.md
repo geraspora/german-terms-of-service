@@ -31,9 +31,9 @@ keinesfalls haftbar.
 Die Nutzer werden gebeten, keine Inhalte zu veröffentlichen, die gegen in der
 Bundesrepublik Deutschland anwendbares Recht verstoßen. Sollten Inhalte gegen
 Gesetzte verstoßen und der Betreiber darauf aufmerksam gemacht wird, wird der
-Betreiber den Nutzer kontaktieren und um Klärung des Problems und ggf. die
-Löschung des Inhaltes bitten. Sollte keine andere Möglichkeit bestehen, wird
-der Betreiber die Inhalte löschen.
+Betreiber den Nutzer, auch öffentlich, kontaktieren und um Klärung des
+Problems und ggf. die Löschung des Inhaltes bitten. Sollte keine andere
+Möglichkeit bestehen, wird der Betreiber die Inhalte löschen.
 
 Bisher durch den Betreiber oder nach Aufforderung des Betreibers gelöschte
 Inhalte: Anzahl der durch den Betreiber gelöschen Inhalte.
@@ -83,4 +83,4 @@ Diese Nutzungsbedingungen basieren auf der Vorlage des Geraspora Teams, welche
 unter der CC-BY veröffentlicht wurde:
 https://github.com/geraspora/german-terms-of-service
 
-Version 1.2, vom 29. Mai 2012.
+Version 1.3, vom 04. Januar 2013.
