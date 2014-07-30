@@ -33,7 +33,7 @@ Bundesrepublik Deutschland anwendbares Recht verstoßen. Sollten Inhalte gegen
 Gesetze verstoßen und wird der Betreiber darauf aufmerksam gemacht, wird der
 Betreiber den Nutzer, auch öffentlich, kontaktieren und um Klärung des
 Problems und ggf. die Löschung der Inhalte bitten. Sollte keine andere
-Möglichkeit bestehen, wird der Betreiber die Inhalte löschen. 
+Möglichkeit bestehen, wird der Betreiber die Inhalte löschen.
 
 Bisher durch den Betreiber oder nach Aufforderung des Betreibers gelöschte
 Inhalte: Anzahl der durch den Betreiber gelöschen Inhalte.
@@ -53,7 +53,7 @@ Betreiber des Pods findet nicht statt.
 
 Sollte ein Nutzer wissentlich oder unwissentlich gegen gültiges Urheberrecht
 verstoßen, ist dieser darauf hinzuweisen. Entsprechende Kontaktdaten können
-beim Anbieter erfragt werden. 
+beim Anbieter erfragt werden.
 
 5. Datenschutz
 --------------
@@ -74,7 +74,7 @@ Datenschutzbestimmungen der jeweiligen Plattform zu beachten.
 Leider ist nichts perfekt, auch Diaspora nicht. Der Betreiber kann daher nicht
 ausschließen, dass Daten durch Sicherheitslücken und Angriffe auf die Systeme
 abgegriffen werden. Im Falle eines Datenverlustes wird der Anbieter die Nutzer
-darüber informieren. 
+darüber informieren.
 
 Hinweise
 --------
@@ -83,4 +83,4 @@ Diese Nutzungsbedingungen basieren auf der Vorlage des Geraspora Teams, welche
 unter der CC-BY veröffentlicht wurde:
 https://github.com/geraspora/german-terms-of-service
 
-Version 1.4.0, vom 30. Juli 2013.
+Version 1.4.1, vom 30. Juli 2013.
