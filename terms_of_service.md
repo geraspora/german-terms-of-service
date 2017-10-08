@@ -1,6 +1,6 @@
 # Impressum, Nutzungsbedingungen und Datenschutz
 
-Version 1.6.0, vom 8. August 2015.
+Version 2.0.0, vom 8. Oktober 2017.
 
 ## Betreiberinformationen gemäß § 5 TMG
 
@@ -34,11 +34,11 @@ Der Betreiber gibt sich Mühe, die Plattform möglichst unterbrechungs- und verl
 
 Das Urheberrecht für Texte, Bilder und sonstige Medien, die ein Benutzer auf {{Pod-Name}} hochladen kann, bleibt beim Nutzer. Eine Übertragung auf den Betreiber des Pods findet nicht statt.
 
-Sollte ein Nutzer wissentlich oder unwissentlich gegen gültiges Urheberrecht verstoßen, ist dieser darauf hinzuweisen. Entsprechende Kontaktdaten können beim Anbieter erfragt werden.
+Sollte ein Nutzer wissentlich oder unwissentlich gegen gültiges Urheberrecht verstoßen, ist dieser darauf hinzuweisen. Entsprechende Kontaktdaten können beim Betreiber erfragt werden.
 
 ## 5. Datenschutz
 
-Dem Betreiber ist es wichtig, die Daten der Nutzer zu schützen. Es werden keinerlei Daten durch den Anbieter ausgewertet oder an dritte Personen weitergegeben, außer die Weitergabe wird rechtlich erzwungen. In einem solchen Fall können folgende Daten weitergegeben werden:
+Dem Betreiber ist es wichtig, die Daten der Nutzer zu schützen. Es werden keinerlei Daten durch den Betreiber ausgewertet oder an dritte Personen weitergegeben, außer die Weitergabe wird rechtlich erzwungen. In einem solchen Fall können folgende Daten weitergegeben werden:
 
 * Benutzername
 * E-Mail-Adresse
@@ -46,7 +46,13 @@ Dem Betreiber ist es wichtig, die Daten der Nutzer zu schützen. Es werden keine
 
 Für Daten, die an andere diaspora\*-Pods oder an externe Dienste wie Twitter gesendet werden, kann der Betreiber keinerlei Aussagen treffen. Hier sind die Datenschutzbestimmungen der jeweiligen Plattform zu beachten.
 
-Leider ist nichts perfekt, auch diaspora\* nicht. Der Betreiber kann daher nicht ausschließen, dass Daten durch Sicherheitslücken und Angriffe auf die Systeme abgegriffen werden. Im Falle eines Datenverlustes wird der Anbieter die Nutzer darüber informieren.
+Leider ist nichts perfekt, auch diaspora\* nicht. Der Betreiber kann daher nicht ausschließen, dass Daten durch Sicherheitslücken und Angriffe auf die Systeme abgegriffen werden. Im Falle eines Datenverlustes wird der Betreiber die Nutzer darüber informieren.
+
+# 6. Soziale Grundsätze
+
+Im Netzwerk von diaspora\* ist es durch die dezentrale und verteilte Natur der Software nicht möglich, Nutzer oder Inhalte aus dem Netzwerk zu verbannen. Um für ein gemeinsames Miteinander über Podgrenzen hinweg zu sorgen, werden vom Projektteam der Software Regeln für den Umgang miteinander gepflegt. Diese Regeln können [auf der offiziellen Webseite des Projektes eingesehen werden](https://diasporafoundation.org/community_guidelines) und werden in einer Vielzahl von Sprachen bereitgestellt.
+
+Dem Betreiber dieses Pods ist ein angenehmes Klima und der freundliche und offene Umgang miteinander wichtig. Inhalte, die gegen die sozialen Grundsätze des Projektes verstoßen, sowie Nutzer, die entsprechende Inhalte veröffentlichen, können vom Betreiber nach einer vorhergehenden Warnung gelöscht werden. Entsprechende Löschungen werden ebenfalls in der unter Punkt 2 referenzierten Liste aufgenommen.
 
 ## Hinweise
 
